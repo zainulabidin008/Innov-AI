@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AiHub</string>
+    <string name="facebook_app_id">1382946752604427</string>
+    <string name="fb_login_protocol_scheme">fb1382946752604427</string>
+    <string name="facebook_client_token">d9b6e42579ab0cef9905d44bf0a77775</string>
+</resources>
+

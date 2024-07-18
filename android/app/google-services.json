@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "660201050058",
+    "project_id": "aihub-3f66a",
+    "storage_bucket": "aihub-3f66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660201050058:android:c897239d1f8466915b4933",
+        "android_client_info": {
+          "package_name": "com.chat.video.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660201050058-b9i2ihk3ncl8s43p7qt4ssk6kbgl5lti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.video.ai",
+            "certificate_hash": "95f210f7fff14015f940a4372b48b2ec627a27b9"
+          }
+        },
+        {
+          "client_id": "660201050058-otjh875du3c984iferqdigbir6ovt9qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.video.ai",
+            "certificate_hash": "6ad7a8250ba89c4a6fddda8a75f80f660c8fb594"
+          }
+        },
+        {
+          "client_id": "660201050058-u8e9q14veq20qpgce0f371guv82be1j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.video.ai",
+            "certificate_hash": "9bee0d129aa79ea85d85561bd7188facfc968105"
+          }
+        },
+        {
+          "client_id": "660201050058-nj35retfdtvo4eul8lhqjkjom40kn77b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIftQScHvTG5DHF2GAADWZLk94jK_p0hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660201050058-jpg26hjc9o9iilrndr819ece5hsajtn8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660201050058-1p6tghpu6j862bvj19gbgo9hvd5t1p9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chat.video.ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
